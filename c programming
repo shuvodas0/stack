@@ -1,0 +1,17 @@
+slove this?
+Write a program to perform Push, Pop, and Peek 
+operations on a stack?
+
+exp:
+Output : 
+Enter size of the stack :3 
+1.Push 
+2.Pop 
+3.display 
+4.Exit 
+ Enter your choice:1 
+Enter the value:1 
+1.Push 
+2.Pop 
+3.display 
+4.Exit 
